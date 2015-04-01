@@ -8,7 +8,7 @@
     <title>brbinn - Reservas de quartos de hóteis durante o dia ou tarde</title>
   </head>
 
-  <body style="font-family: 'Lato', sans-serfi; font-weight: 400; text-align: center; margin: 50px 0 60px 0; color: #333">
+  <body style="font-family: 'Lato', sans-serfi; font-weight: 400; text-align: center; margin-top  : 50px; color: #333">
     <div class="container">
       <div class="row">
         <div class="col-md-8 col-md-offset-2">
@@ -45,9 +45,19 @@
           })(document, 'script');</script>
         </div>
       </div>
-
     </div>
-
+    <footer style="border-top: 1px solid #f2f2f2; widht: 100%; padding: 30px 0; color: #999; margin-top: 80px" >
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <span class="pull-left"><strong>brbinn</strong> = be right back inn</span>
+          </div>
+          <div class="col-md-6">
+            <span class="pull-right">Made by <a href="http://codeland.com.br">CODELAND</a></span>
+          </div>
+        </div>
+      </div>
+    </footer>
   </body>
 
 </html>
