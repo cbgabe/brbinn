@@ -5,7 +5,7 @@
     <link href='http://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'></link>
     <link href='bootstrap.css' rel='stylesheet' type='text/css'></link>
     <script type='text/javascript' src="config.json" ></script>
-    <title>brbinn - Reservas de quartos de hóteis durante o dia ou tarde</title>
+    <title>brbinn - Reserve quarto de hotéis em horários alternativos</title>
   </head>
 
   <body style="font-family: 'Lato', sans-serfi; font-weight: 400; text-align: center; margin-top  : 50px; color: #333">
